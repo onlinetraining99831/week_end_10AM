@@ -57,7 +57,10 @@ namespace consoleApp
             }
         }
 
-        
+        public static void sravancode()
+        {
+            Console.WriteLine("Uplaod to GIThub");
+        }
 
     }
 }
