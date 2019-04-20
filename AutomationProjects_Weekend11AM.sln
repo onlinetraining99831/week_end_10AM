@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "consoleApp", "consoleApp\consoleApp.csproj", "{20CDD874-464D-4B38-977C-A1EE5644844E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dllproject", "dllproject\dllproject.csproj", "{591FCC43-0F20-459F-AEC3-4FCBE79B3120}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebdriverPrograms", "ConsoleApplication1\WebdriverPrograms.csproj", "{3F870C7E-8EDA-4B79-BA65-51941C635E87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20CDD874-464D-4B38-977C-A1EE5644844E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20CDD874-464D-4B38-977C-A1EE5644844E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20CDD874-464D-4B38-977C-A1EE5644844E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20CDD874-464D-4B38-977C-A1EE5644844E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{591FCC43-0F20-459F-AEC3-4FCBE79B3120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{591FCC43-0F20-459F-AEC3-4FCBE79B3120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{591FCC43-0F20-459F-AEC3-4FCBE79B3120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{591FCC43-0F20-459F-AEC3-4FCBE79B3120}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F870C7E-8EDA-4B79-BA65-51941C635E87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F870C7E-8EDA-4B79-BA65-51941C635E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F870C7E-8EDA-4B79-BA65-51941C635E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F870C7E-8EDA-4B79-BA65-51941C635E87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
