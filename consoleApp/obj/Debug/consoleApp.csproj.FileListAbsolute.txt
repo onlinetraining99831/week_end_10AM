@@ -4,3 +4,9 @@ c:\users\koplu\documents\visual studio 2015\Projects\AutomationProjects_Weekend1
 c:\users\koplu\documents\visual studio 2015\Projects\AutomationProjects_Weekend11AM\consoleApp\obj\Debug\consoleApp.csprojResolveAssemblyReference.cache
 c:\users\koplu\documents\visual studio 2015\Projects\AutomationProjects_Weekend11AM\consoleApp\obj\Debug\consoleApp.exe
 c:\users\koplu\documents\visual studio 2015\Projects\AutomationProjects_Weekend11AM\consoleApp\obj\Debug\consoleApp.pdb
+C:\Users\sai\Source\Repos\week_end_10AM\consoleApp\bin\Debug\consoleApp.exe.config
+C:\Users\sai\Source\Repos\week_end_10AM\consoleApp\obj\Debug\consoleApp.exe
+C:\Users\sai\Source\Repos\week_end_10AM\consoleApp\obj\Debug\consoleApp.pdb
+C:\Users\sai\Source\Repos\week_end_10AM\consoleApp\bin\Debug\consoleApp.exe
+C:\Users\sai\Source\Repos\week_end_10AM\consoleApp\bin\Debug\consoleApp.pdb
+C:\Users\sai\Source\Repos\week_end_10AM\consoleApp\obj\Debug\consoleApp.csprojResolveAssemblyReference.cache

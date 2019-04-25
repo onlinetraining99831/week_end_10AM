@@ -2,3 +2,10 @@ C:\Users\koplu\documents\visual studio 2015\Projects\AutomationProjects_Weekend1
 C:\Users\koplu\documents\visual studio 2015\Projects\AutomationProjects_Weekend11AM\dllproject\bin\Debug\dllproject.pdb
 C:\Users\koplu\documents\visual studio 2015\Projects\AutomationProjects_Weekend11AM\dllproject\obj\Debug\dllproject.dll
 C:\Users\koplu\documents\visual studio 2015\Projects\AutomationProjects_Weekend11AM\dllproject\obj\Debug\dllproject.pdb
+C:\Users\sai\Source\Repos\week_end_10AM\dllproject\bin\Debug\dllproject.dll
+C:\Users\sai\Source\Repos\week_end_10AM\dllproject\bin\Debug\dllproject.pdb
+C:\Users\sai\Source\Repos\week_end_10AM\dllproject\bin\Debug\consoleApp.exe
+C:\Users\sai\Source\Repos\week_end_10AM\dllproject\bin\Debug\consoleApp.pdb
+C:\Users\sai\Source\Repos\week_end_10AM\dllproject\obj\Debug\dllproject.csprojResolveAssemblyReference.cache
+C:\Users\sai\Source\Repos\week_end_10AM\dllproject\obj\Debug\dllproject.dll
+C:\Users\sai\Source\Repos\week_end_10AM\dllproject\obj\Debug\dllproject.pdb

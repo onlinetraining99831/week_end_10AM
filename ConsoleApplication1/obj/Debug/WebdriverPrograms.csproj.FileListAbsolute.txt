@@ -8,3 +8,6 @@ C:\Users\koplu\documents\visual studio 2015\Projects\AutomationProjects_Weekend1
 C:\Users\koplu\documents\visual studio 2015\Projects\AutomationProjects_Weekend11AM\ConsoleApplication1\obj\Debug\WebdriverPrograms.csprojResolveAssemblyReference.cache
 C:\Users\koplu\documents\visual studio 2015\Projects\AutomationProjects_Weekend11AM\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\koplu\documents\visual studio 2015\Projects\AutomationProjects_Weekend11AM\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\sai\Source\Repos\week_end_10AM\ConsoleApplication1\obj\Debug\WebdriverPrograms.csprojResolveAssemblyReference.cache
+C:\Users\sai\Source\Repos\week_end_10AM\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\sai\Source\Repos\week_end_10AM\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
